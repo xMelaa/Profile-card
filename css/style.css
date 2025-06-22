@@ -49,7 +49,7 @@ body {
 }
 .card__name-age {
   display: flex;
-  gap: 8px;
+  gap: 0.5rem;
   margin-bottom: 0.5rem;
 }
 .card__age {
