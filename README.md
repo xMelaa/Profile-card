@@ -28,7 +28,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Profile card](https://xmelaa.github.io/Profile-card/)
 
 ## My process
 
@@ -37,7 +37,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- SCSS/SASS
+- SCSS
 
 ### What I learned
 Using scss and background-position property
